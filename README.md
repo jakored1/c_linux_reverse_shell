@@ -3,7 +3,7 @@ To help me learn the C language, and better understand how to work with sockets 
 
 **DO NOT USE IN PRODUCTION OR ANYTHING SERIOUS!**  
 The shell is not perfect and I'm sure it has bugs.  
-It was purely made as a learning project.  
+It was made purely as a learning project.  
 I might continue to add features to it in the future and the day I feel it is production ready I will change this descrption :)
 
 ### Future plans (If I get to them)
